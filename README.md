@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/34261044/README.md)
 1D Poisson Solver — Finite Difference Validation
 A minimal Python demonstration of the one-dimensional, charge-free Poisson equation (Laplace equation) with fixed-potential (Dirichlet) boundary conditions.
 This repository is a teaching and numerical-validation example and is not yet a VASPsol implementation, a Li–S battery solvation model, or a solver with mobile ions or spatially varying dielectric properties.
